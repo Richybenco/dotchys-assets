@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "last_update": "2026-03-17",
+  "skins": [
+    {
+      "id": "cosmic",
+      "name": "Cosmic",
+      "folder": "skins/cosmic",
+      "total_items": 12
+    },
+    {
+      "id": "cubos",
+      "name": "Cubos",
+      "folder": "skins/cubos",
+      "total_items": 12
+    },
+    {
+      "id": "diamantes",
+      "name": "Diamantes",
+      "folder": "skins/diamantes",
+      "total_items": 12
+    },
+    {
+      "id": "frutas",
+      "name": "Frutas",
+      "folder": "skins/frutas",
+      "total_items": 12
+    },
+    {
+      "id": "gelatin",
+      "name": "Gelatin",
+      "folder": "skins/gelatin",
+      "total_items": 12
+    },
+    {
+      "id": "pets",
+      "name": "Pets",
+      "folder": "skins/pets",
+      "total_items": 12
+    },
+    {
+      "id": "planetas",
+      "name": "Planetas",
+      "folder": "skins/planetas",
+      "total_items": 12
+    }
+  ]
+}
